@@ -1,4 +1,7 @@
-# api documentation for  [grunt-sails-linker (v1.0.4)](http://sailsjs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-sails-linker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-sails-linker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-sails-linker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-sails-linker)
+# npmdoc-grunt-sails-linker
+
+#### api documentation for  [grunt-sails-linker (v1.0.4)](http://sailsjs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-sails-linker.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-sails-linker) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-sails-linker.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-sails-linker)
+
 #### Autoinsert script and link tags in an html file.
 
 [![NPM](https://nodei.co/npm/grunt-sails-linker.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-sails-linker)
@@ -80,7 +83,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.0.4"
+    "version": "1.0.4",
+    "bin": {}
 }
 ```
 
